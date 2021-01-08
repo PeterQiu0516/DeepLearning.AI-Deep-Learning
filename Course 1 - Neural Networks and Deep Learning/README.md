@@ -10,7 +10,7 @@ Notes and exercises for the first course of the Deep Learning Specialization off
 
 + ### Week 3 - Shallow Neural Networks (Vectorization of Back-propagation and Activation Function)
 
-+ ### Week 4 - Deep Neural Networks
++ ### Week 4 - Deep Neural Networks (Application in Cat Classification)
 
 ## About
 
