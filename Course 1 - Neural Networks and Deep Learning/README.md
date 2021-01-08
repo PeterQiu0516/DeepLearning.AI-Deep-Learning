@@ -8,9 +8,7 @@ Notes and exercises for the first course of the Deep Learning Specialization off
 
 + ### Week 2 - Neural Networks Basics (Logistic Regression in NN)
 
-+ ### Week 3 - Shallow Neural Networks
-
-  <!-- + > [Qwiklab 3 - Build a Time Series Model (ARIMA Model) to Forecast Stock Price](https://github.com/PeterQiu0516/GoogleCloud-ML-for-Trading/tree/master/Course%201%20-%20Introduction%20to%20Trading%2C%20Machine%20Learning%20%26%20GCP/Qwiklab%203%20-%20Build%20a%20Time%20Series%20Model%20(ARIMA%20Model)%20to%20Forecast%20Stock%20Price) -->
++ ### Week 3 - Shallow Neural Networks (Vectorization of Back-propagation and Activation Function)
 
 + ### Week 4 - Deep Neural Networks
 
