@@ -6,7 +6,7 @@ Notes and exercises for the second course of the Deep Learning Specialization of
 
 + ### Week 1 - Practical Aspects of Deep Learning (He Initialization, L2 Regularization & Dropout, GC)  
 
-+ ### Week 2 - Optimization Algorithms
++ ### Week 2 - Optimization Algorithms (Mini-batch, Momentum & RMSprop & Adam, Learning Rate Decay, Local Optima and Saddle Points)
 
 + ### Week 3 - Hyperparameter Tuning, Batch Normalization and Programming Frameworks
 
