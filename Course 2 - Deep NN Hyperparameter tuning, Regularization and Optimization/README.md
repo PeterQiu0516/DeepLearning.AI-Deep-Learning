@@ -8,7 +8,7 @@ Notes and exercises for the second course of the Deep Learning Specialization of
 
 + ### Week 2 - Optimization Algorithms (Mini-batch, Momentum & RMSprop & Adam, Learning Rate Decay, Local Optima and Saddle Points)
 
-+ ### Week 3 - Hyperparameter Tuning, Batch Normalization and Programming Frameworks
++ ### Week 3 - Hyperparameter Tuning, Batch Normalization, Softmax Regression and DL Programming Frameworks (TensorFlow)
 
 ## About
 
