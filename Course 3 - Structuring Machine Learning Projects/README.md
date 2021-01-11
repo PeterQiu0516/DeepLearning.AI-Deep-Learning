@@ -15,7 +15,8 @@ Notes and exercises for the third course of the Deep Learning Specialization off
 
 
 
-+ ### Week 2 - ML Strategy (2)
++ ### Week 2 - ML Strategy (2): Error Analysis, Data Mismatch, Transfer Learning & Multi-task Learning, End-to-end Deep Learning
+  + Autonomous driving (case study)
 
 ## About
 
